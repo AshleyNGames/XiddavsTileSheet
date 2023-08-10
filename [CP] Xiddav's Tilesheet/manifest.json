@@ -1,5 +1,4 @@
-{
-   "Name": "Xiddav's Tilesheet",
+{"Name": "Xiddav's Tilesheet",
    "Author": "Xiddav",
    "Version": "1.0.3",
    "Description": "tilesheet for xiddav and whomever wishes to use it as well.",
@@ -7,5 +6,4 @@
    "MinimumApiVersion": "3.2.0",
    "UpdateKeys": [ "Nexus:10881", "GitHub:AshleyNGames/XiddavsTileSheet" ],
    "ContentPackFor": {
-      "UniqueID": "Pathoschild.ContentPatcher",}
-   }
+      "UniqueID": "Pathoschild.ContentPatcher"}   }
