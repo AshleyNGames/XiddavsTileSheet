@@ -5,7 +5,7 @@
    "Description": "tilesheet for xiddav and whomever wishes to use it as well.",
    "UniqueID": "xiddav.tilesheet",
    "MinimumApiVersion": "3.2.0",
-   "UpdateKeys": [ "Nexus:10881" ],
+   "UpdateKeys": [ "Nexus:10881", "GitHub:AshleyNGames/XiddavsTileSheet" ],
    "ContentPackFor": {
       "UniqueID": "Pathoschild.ContentPatcher",}
    }
