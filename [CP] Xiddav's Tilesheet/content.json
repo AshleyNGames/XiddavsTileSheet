@@ -17,4 +17,4 @@
             "FromFile": "assets/Xiddav_Indoor.png"        },		
         {   "Action": "Load",
             "Target": "Maps/Xiddav_FestivalExtras",
-            "FromFile": "assets/Xiddav_FestivalExtras.png"        },	    ] }
+            "FromFile": "assets/Xiddav_FestivalExtras.png"   }    ] }
