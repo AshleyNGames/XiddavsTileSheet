@@ -1,0 +1,12 @@
+{"Name": "Xiddav's Tilesheet Recolor StarBlue Unofficial",
+   "Author": "Xiddav",
+   "Version": "1.6.7",
+   "Description": "StarBlue Unofficial",
+   "UniqueID": "xiddav.tilesheet.StarBlue",
+   "MinimumApiVersion": "3.2.0",
+   "UpdateKeys": [ "Nexus:10881@StarBlue"],
+   "ContentPackFor": {
+    	"UniqueID": "Pathoschild.ContentPatcher",  },
+	"Dependencies": [
+	{"UniqueID": "xiddav.tilesheet",
+   			"IsRequired": true}]  }

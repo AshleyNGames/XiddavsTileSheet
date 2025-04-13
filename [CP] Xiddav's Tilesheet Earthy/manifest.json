@@ -1,0 +1,12 @@
+{"Name": "Xiddav's Tilesheet Earthy Overlay",
+   "Author": "Xiddav",
+   "Version": "1.6.7",
+   "Description": "Earth recolor for Xiddav's Tilesheet.",
+   "UniqueID": "xiddav.tilesheet.RecolorsEarthy",
+   "MinimumApiVersion": "3.2.0",
+   "UpdateKeys": [ "Nexus:10881@Earthy"],
+   "ContentPackFor": {
+    	"UniqueID": "Pathoschild.ContentPatcher",  },
+	"Dependencies": [
+	{"UniqueID": "xiddav.tilesheet",
+   			"IsRequired": true}]  }
