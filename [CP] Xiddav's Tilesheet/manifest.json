@@ -1,9 +1,10 @@
 {"Name": "Xiddav's Tilesheet",
    "Author": "Xiddav",
-   "Version": "1.6.8",
+   "Version": "1.7.0",
    "Description": "tilesheet for xiddav and whomever wishes to use it as well.",
    "UniqueID": "xiddav.tilesheet",
    "MinimumApiVersion": "3.2.0",
    "UpdateKeys": [ "Nexus:10881@Xiddav"],
    "ContentPackFor": {
       "UniqueID": "Pathoschild.ContentPatcher"}}
+
