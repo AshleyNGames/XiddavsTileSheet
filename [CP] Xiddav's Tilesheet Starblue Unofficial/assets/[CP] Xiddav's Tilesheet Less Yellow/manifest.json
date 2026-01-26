@@ -1,0 +1,12 @@
+{"Name": "Xiddav's Tilesheet Recolors LessYellow",
+   "Author": "Xiddav",
+   "Version": "1.6.7",
+   "Description": "LessYellow recolor for xiddav tilesheet.",
+   "UniqueID": "xiddav.tilesheet.LessYellow",
+   "MinimumApiVersion": "3.2.0",
+   "UpdateKeys": [ "Nexus:10881@LessYellow"],
+   "ContentPackFor": {
+    	"UniqueID": "Pathoschild.ContentPatcher",  },
+	"Dependencies": [
+	{"UniqueID": "xiddav.tilesheet",
+   			"IsRequired": true}]  }
