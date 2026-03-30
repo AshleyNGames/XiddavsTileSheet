@@ -1,12 +1,12 @@
 {"Name": "Xiddav's Tilesheet Recolors Vibrant",
    "Author": "Xiddav",
-   "Version": "1.6.8-VP",
+   "Version": "2.0.0-VP",
    "Description": "VP recolor for xiddav's tilesheet.",
    "UniqueID": "xiddav.tilesheet.RecolorsVP",
    "MinimumApiVersion": "3.2.0",
    "UpdateKeys": [ "Nexus:10881@Vibrant"],
    "ContentPackFor": {
-    	"UniqueID": "Pathoschild.ContentPatcher",  },
+    	"UniqueID": "Pathoschild.ContentPatcher"},
 	"Dependencies": [
 	{"UniqueID": "xiddav.tilesheet",
    			"IsRequired": true}]  }
